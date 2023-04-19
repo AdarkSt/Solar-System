@@ -1,0 +1,13 @@
+export const ONLY_SPHERE = 'ONLY_SPHERE'
+export const WITH_DISK = 'WITH_DISK'
+export const WITH_SPUTNIK = 'WITH_SPUTNIK'
+
+export const SUN = 'SUN'
+export const MERCURY = 'MERCURY'
+export const VENUS = 'VENUS'
+export const EARTH = 'EARTH'
+export const MARS = 'MARS'
+export const JUPITER = 'JUPITER'
+export const SATURN =  'SATURN'
+export const URANUS = 'URANUS'
+export const NEPTUN = 'NEPTUN'
